@@ -1,7 +1,7 @@
 - 👋 Hi, I’m dhayanandh
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning front end
-- 📫 How to reach me dhaya._04
+- 📫 How to reach me dhaya_.04
 
 
 <!---
