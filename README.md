@@ -1,7 +1,8 @@
-- 👋 Hi, I’m dhayanandh
+- 👋 Hi, I’m Dhayanandh
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning front end
 - 📫 How to reach me dhaya_.04
+- Im Job seeker
 
 
 <!---
