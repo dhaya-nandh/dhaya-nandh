@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning front end
 - 📫 How to reach me dhaya_.04
-- Im Job seeker
+- I'm a Job seeker
 
 
 <!---
