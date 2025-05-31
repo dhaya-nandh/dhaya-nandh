@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dhayanandh
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning front end
-- 📫 How to reach me dhaya_.04
-- I'm a Job seeker
+- 📫 How to reach me dhayanandh510@gmail.com
+- 👯 I'm a Job seeker
 
 
 <!---
