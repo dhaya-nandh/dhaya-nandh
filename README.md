@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhayanandh
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning front end
+- 🌱 I’m currently learning full stack python
 - 📫 How to reach me dhayanandh510@gmail.com
 - 👯 I'm a Job seeker
 
