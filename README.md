@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=00C896">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=FFD700">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/followers/dhaya-nandh?style=for-the-badge&logo=github&color=00C896">
+  <img src="https://img.shields.io/github/stars/dhaya-nandh?style=for-the-badge&logo=github&color=FFD700">
+  <img src="https://komarev.com/ghpvc/?username=dhaya-nandh&style=for-the-badge&color=blue">
 </p>
 
 ---
@@ -102,31 +102,25 @@ Smooth Animations
 
 # 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=dhaya-nandh\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
 ---
 
 # 🔥 GitHub Streak
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhaya-nandh\&theme=tokyonight\&hide_border=true)
 
 ---
 
 # 📈 Most Used Languages
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhaya-nandh\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
 # 🏆 GitHub Trophy
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=algolia\&no-frame=true\&margin-w=10)
-
----
-
-# 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Trophy](https://github-profile-trophy.vercel.app/?username=dhaya-nandh\&theme=algolia\&no-frame=true\&margin-w=10)
 
 ---
 
@@ -136,7 +130,7 @@ Smooth Animations
 
 💼 Portfolio: Coming Soon
 
-🌍 GitHub: https://github.com/YOUR_USERNAME
+🌍 GitHub: https://github.com/dhaya-nandh
 
 ---
 
