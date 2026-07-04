@@ -29,6 +29,8 @@
 ---
 
 # 💻 Tech Stack
+![run](https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif
+
 
 ### Languages
 
