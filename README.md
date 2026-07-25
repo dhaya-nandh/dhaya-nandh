@@ -130,7 +130,7 @@ Smooth Animations
 
 📧 Email: [dhayanandh4@gmail.com](mailto:dhayanandh4@gmail.com)
 
-💼 Portfolio: Coming Soon
+💼 Portfolio: https://github.com/dhaya-nandh/Portfolio
 
 🌍 GitHub: https://github.com/dhaya-nandh
 
